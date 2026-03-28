@@ -1,0 +1,6 @@
+wiremock:
+  args:
+    - "--port=9021"
+    - "--max-request-journal=1000"
+    - "--global-response-templating"
+    - "--root-dir=/home/wiremock/storage"

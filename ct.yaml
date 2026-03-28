@@ -1,0 +1,4 @@
+validate-maintainers: false
+chart-repos:
+  - wiremock=https://wiremock.github.io/helm-charts
+
